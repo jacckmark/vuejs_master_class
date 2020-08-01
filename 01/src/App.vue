@@ -12,8 +12,8 @@
 </script>
 
 <style>
-  #app { 
-    font-family: "Avenir", Helvetica, Arial, sans-serif;
+  #app {
+    font-family: "Avenir", Helvetica, Arial, monospace;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
